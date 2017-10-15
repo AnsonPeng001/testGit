@@ -24,3 +24,4 @@ git config --global user.email "email@example.com"
 
 #½«µ±Ç°Ä¿Â¼ÉèÖÃÎªgit±¾µØ²Ö¿â
 git init·¢Ê¿´ó·òÈöµØ·½
+¿¿¿¿¿¿¿
