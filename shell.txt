@@ -1,0 +1,26 @@
+ps -ef|grep 关键字
+
+chmod 777 文件名
+
+kill -9 进程
+
+tar zxvf 文件名
+
+nginx配置地址
+/etc/nginx/conf.d/
+
+jenkins目录
+/var/lib/jenkins/schoolwork/
+http://192.168.1.122:8080
+
+
+
+
+#######git######
+
+#设置/查看 当前用户名密码
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+
+#将当前目录设置为git本地仓库
+git init
