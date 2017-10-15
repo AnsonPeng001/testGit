@@ -23,4 +23,4 @@ git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 
 #将当前目录设置为git本地仓库
-git init
+git init发士大夫撒地方
